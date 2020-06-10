@@ -21,7 +21,9 @@
            
            
   response for success:
+  
   [
+  
     {
         "url": "http://boldtech.co",
         "priority": 2
