@@ -19,3 +19,34 @@
            
            and app.js controll whole backend.
            
+           
+  response for success:
+  [
+    {
+        "url": "http://boldtech.co",
+        "priority": 2
+    },
+    {
+        "url": "http://instagram.com",
+        "priority": 3
+    },
+    {
+        "url": "http://google.com",
+        "priority": 4
+    },
+    {
+        "url": "http://facebook.com",
+        "priority": 5
+    },
+    {
+        "url": "http://tinder.com",
+        "priority": 8
+    },
+    {
+        "url": "http://amazon.com",
+        "priority": 9
+    }
+]
+
+response for failure: "All servers are offline"
+           
