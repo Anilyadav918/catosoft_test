@@ -11,8 +11,11 @@
   "author": "Anil yadav",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mocha": "^7.2.0"
   },
   "devDependencies": {
     "jest": "^26.0.1",

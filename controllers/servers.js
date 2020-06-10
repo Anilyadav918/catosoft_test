@@ -21,7 +21,7 @@ exports.getServers = asyncHandler(async(req, res, next) => {
                 
                 if(url_ === 'offline' || url_ === 'doesnotexist'){
                     flag = false;
-                    //return 'Servers are offline';
+                    //return ;
                 }else if(url_ !== 'offline' || url_ !== 'doesnotexist'){
                     flag = true;
                     data = {url, priority};
